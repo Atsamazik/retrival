@@ -1,0 +1,21 @@
+black
+flake8
+isort
+loguru~=0.7.3
+mkdocs
+pip
+python-dotenv~=1.0.1
+tqdm~=4.67.1
+typer~=0.15.1
+-e .
+transformers~=4.47.1
+bs4~=0.0.2
+datasets~=3.2.0
+torch~=2.5.1
+scikit-learn
+
+src~=0.0.1
+pandas~=2.2.3
+beautifulsoup4~=4.12.3
+
+sentence_transformers~=2.2.2
